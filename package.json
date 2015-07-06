@@ -1,7 +1,7 @@
 {
   "name": "has-module",
   "description": "Checks to see if a module is installed",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Qix (http://github.com/qix-)",
   "keywords": [
     "module",
